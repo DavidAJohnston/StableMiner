@@ -1,1 +1,0 @@
-cgminer --url http://192.168.1.217:9332/ --userpass anyusername:123 
