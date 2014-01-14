@@ -1,8 +1,5 @@
 This software was created by Argutus1 on Reddit
 
-This software may be edited and redistributed, on the condition that this file and the 'Info' tab in the EasyMiner GUI are not edited or removed.
-Also, the edited version may not be sold for any amount of money or cryptocurrency.
-
 Donations may be sent to: 13GGffkBfcf8nbfBE2qxnxgpqXAbjEyehF
 
 **
