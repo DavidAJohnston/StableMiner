@@ -191,13 +191,6 @@ class New_Toplevel_1:
         self.TLabel3.configure(relief="flat")
         self.TLabel3.configure(text='''This software was created by Argutus1 on Reddit.''')
 
-        self.TLabel4 = ttk.Label (self.TNotebook1_pg1)
-        self.TLabel4.place(relx=0.02,rely=0.76,height=19,width=511)
-        self.TLabel4.configure(background=_bgcolor)
-        self.TLabel4.configure(foreground="#000000")
-        self.TLabel4.configure(relief="flat")
-        self.TLabel4.configure(text='''This software may be edited and redistributed on the condition that this page will not be edited.''')
-
         self.TLabel6 = ttk.Label (self.TNotebook1_pg1)
         self.TLabel6.place(relx=0.02,rely=0.88,height=19,width=576)
         self.TLabel6.configure(background=_bgcolor)
