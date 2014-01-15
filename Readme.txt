@@ -25,7 +25,7 @@ Bitcoind or qt must be actively running to use this software. Bitcoin's config f
 
 6. Open up a command prompt window and 'cd' to PyInstaller's window
 
-7. Type 'python pyinstaller.py --onefile --onedir --icon=design.ico easyminer.py'
+7. Type 'python pyinstaller.py --onefile --onedir --icon=design.ico StableMiner.py'
 
 8. Copy the 'Dependencies' folder, then go to the 'StableMiner' directory, the 'dist', then paste the 'Dependencies' folder next to the new StableMiner software
 
